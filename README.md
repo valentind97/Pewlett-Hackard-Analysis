@@ -13,11 +13,11 @@ Pewlett_Hackard(PH) is facing a "silver tsunami". To rise the challenge, PH comp
 
 ![Retirement Titles table](https://user-images.githubusercontent.com/105877888/178130790-120d2fda-a960-42ac-a686-887adf2c0c84.PNG)
 
-- [Unique Titles](https://github.com/CelineWW/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv) table holds the most recent title of employees from Retirement Titles table. Each employee in the table is unique. Table head is shown as below:
+- [Unique Titles](https://github.com/valentindv97/Pewlett-Hackard-Analysis/blob/main/Data/unique_titles.csv) table holds the most recent title of employees from Retirement Titles table. Each employee in the table is unique. Table head is shown as below:
 
 ![Unique Titles table](https://user-images.githubusercontent.com/105877888/178130793-32c559eb-9b45-4120-bb92-46572e1f3fe2.PNG)
 
-- [Retiring Titles](https://github.com/CelineWW/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv) table holds the number of retirement-age employees by their most recent title. The caculation was based on Unique Titles table. Table is shown as below:
+- [Retiring Titles](https://github.com/valentindv97/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv) table holds the number of retirement-age employees by their most recent title. The caculation was based on Unique Titles table. Table is shown as below:
 
 ![Retiring Titles table](https://user-images.githubusercontent.com/105877888/178130810-6e533cd0-4d54-4a57-8da8-b51af4564507.PNG)
 
