@@ -19,9 +19,9 @@ The purpose of this analysis is to create two tables: one to determine the numbe
 ![Retiring Titles table](https://user-images.githubusercontent.com/105877888/178130810-6e533cd0-4d54-4a57-8da8-b51af4564507.PNG)
 
 ### The Employees Eligible for the Mentorship Program
-- [Mentorship Eligibility](https://github.com/CelineWW/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv) table holds mentorship-eligible employees. These current employees were born in 1965. Table head is shown as below:
+- [Mentorship Eligibility](https://github.com/valentindv97/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv) table holds mentorship-eligible employees. These current employees were born in 1965. Table head is shown as below:
 
-![Mentorship Eligibility table](https://user-images.githubusercontent.com/105877888/178130932-72dc8ca2-daa8-49a7-90c0-9dc120f0fde2.PNG)
+
 
 ## Summary
   - To discover how many roles will need to be filled as the "silver tsunami" begins to make an impact, we summerized the number of employees who are at retirement-age. 
