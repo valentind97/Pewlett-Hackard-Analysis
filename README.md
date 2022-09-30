@@ -9,7 +9,7 @@ Pewlett_Hackard(PH) is facing a "silver tsunami". To rise the challenge, PH comp
   
 ## Results
 ### The Number of Retiring Employees by Title
-- [Retirement Titles](https://github.com/CelineWW/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv) table holds all the titles of employees who were born between 1952 and 1955. Since some of employees has taken different positions in the company, employees' number and name are dupulicate. Table head is shown as below:
+- [Retirement Titles](https://github.com/valentindv97/Pewlett-Hackard-Analysis/blob/main/Data/retirement_titles.csv) table holds all the titles of employees who were born between 1952 and 1955. Since some of employees has taken different positions in the company, employees' number and name are dupulicate. Table head is shown as below:
 
 ![Retirement Titles table](https://user-images.githubusercontent.com/105877888/178130790-120d2fda-a960-42ac-a686-887adf2c0c84.PNG)
 
