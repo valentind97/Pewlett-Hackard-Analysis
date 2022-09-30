@@ -14,12 +14,12 @@ The purpose of this analysis is to create two tables: one to determine the numbe
 
 ![Unique Titles table](https://user-images.githubusercontent.com/105877888/178130793-32c559eb-9b45-4120-bb92-46572e1f3fe2.PNG)
 
-- [Retiring Titles](https://github.com/valentindv97/Pewlett-Hackard-Analysis/blob/main/Data/retiring_titles.csv) table holds the number of retirement-age employees by their most recent title. The caculation was based on Unique Titles table. Table is shown as below:
+-  table holds the number of retirement-age employees by their most recent title. The caculation was based on Unique Titles table. Table is shown as below:
 
 ![Retiring Titles table](https://user-images.githubusercontent.com/105877888/178130810-6e533cd0-4d54-4a57-8da8-b51af4564507.PNG)
 
 ### The Employees Eligible for the Mentorship Program
-- [Mentorship Eligibility](https://github.com/valentindv97/Pewlett-Hackard-Analysis/blob/main/Data/mentorship_eligibility.csv) table holds mentorship-eligible employees. These current employees were born in 1965. Table head is shown as below:
+-  table holds mentorship-eligible employees. These current employees were born in 1965. Table head is shown as below:
 
 
 
