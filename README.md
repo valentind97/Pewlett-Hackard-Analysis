@@ -1,11 +1,8 @@
 # Pewlett-Hackard-Analysis
 ## Overview of the Analysis
 Pewlett_Hackard(PH) is facing a "silver tsunami". To rise the challenge, PH company needs to get well prepared. The analysis is target to retiring employees.
-  1. Use `INNER JOIN` to combine employees and titles tables. 
-     Then retrieve employees' information who were born in 1952 through 1955 and currently working in the company.
-  2. Use `DISTINCT ON` and `ORDER BY` to get the retiring employees' current position.
-  3. Use `COUNT` and `GROUP BY` to sort and count the retiring employees by department.
-  4. Use `INNER JOIN` to retrieve current employees' personal information, who were born in 1965, and their titles. These employees are eligible for mentorship.
+
+The purpose of this analysis is to create two tables: one to determine the number of retiring employees and their position titles, and the other to identify employees who are eligible to participate in a mentorship program. Within the first table, we included information such as employee number, first and last name, position title, and start and end date. In the second, we added employee number, first and last name, birth date, start and end date, and position title.
   
 ## Results
 ### The Number of Retiring Employees by Title
